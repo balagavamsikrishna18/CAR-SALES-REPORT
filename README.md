@@ -1,0 +1,2 @@
+# CAR-SALES-REPORT
+The goal of this project is to analyze cars sales performance from 2022 to 20233 using an interactive Power BI dashboard. The dashboard helps business stakeholders understand revenue trends, regional contribution, engine-size distribution, and color-based preferences. These insights support strategic decision‑making and help forecast sales growth.
