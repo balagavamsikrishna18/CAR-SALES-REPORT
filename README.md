@@ -3,7 +3,7 @@
 ## Objective
 The goal of this project is to analyze cars sales performance from 2022 to 20233 using an interactive Power BI dashboard. The dashboard helps business stakeholders understand revenue trends, regional contribution, engine-size distribution, and color-based preferences. These insights support strategic decision‑making and help forecast sales growth.
 ## Dataset Used
-- **Internal BMW sales dataset (2010–2024):**[cick to view](https://github.com/balagavamsikrishna18/CAR-SALES-REPORT/blob/main/Car%20Sales.xlsx)
+- **Cars sales dataset (2022-2023): **[cick to view](https://github.com/balagavamsikrishna18/CAR-SALES-REPORT/blob/main/Car%20Sales.xlsx)
 ## Questions (KPIs Covered)
 ### Sales overview 
 -Year to date toatal sales 
@@ -60,7 +60,9 @@ The goal of this project is to analyze cars sales performance from 2022 to 20233
 - Dashboard Interaction Video   :[click to view](https://github.com/balagavamsikrishna18/CAR-SALES-REPORT/blob/main/CAR%20SALES%20REPORT%20REC.mp4)
 
 ## Project Insights
-
+-**year to date cars sales** Weekly Trends are high between 36th with 14.9M low in 53 week With 1.1M
+-**year to date cars sales** By Body styel Hardtop,Hatchack,Passenger,sedan,Suv All of these Suv and Hatchback are Contributes More with 26%, 22% 
+-**year to date cars sales** By Colours Red,Black,Pale white all of these Pale White and Black Contributes More with 125.24M,124.25M 
 
 
 
