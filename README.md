@@ -29,26 +29,26 @@ The goal of this project is to analyze cars sales performance from 2022 to 20233
 ## Process
 - Cleaned and validated the dataset for missing values and incorrect formatting.
 - Extracted key date components: **Year, Month, Quarter, Week Name**.
-##Created DAX measures for KPIs:
+## Created DAX measures for KPIs:
 - Year to date toatal sales 
 - Difference between the year to date sales and perevious year to date sales 
 - Year to year grouth in total sales 
 - Month to date total sales 
--Year to average price 
--Difference between avarage price & perevious year avarage price 
--Year over year grouth in average price 
--Month to date avarage price 
--Year to date cars sold 
--Diffrence between the yera to date cars sold & pervious year cars cars sold 
--Year over year grouth in cars sold  
--Month to date cars sold
-###Created visualzations
--Area chat for Year to date sales weekly trends 
--Donut chart for Year to date sales by body style 
--Pic chart for Year to date sales by colour 
--Tree map for Total cars sold by Dealer region
--Table for Company wise sales Trend 
-  Table for Total sold cars details
+- Year to average price 
+- Difference between avarage price & perevious year avarage price 
+- Year over year grouth in average price 
+- Month to date avarage price 
+- Year to date cars sold 
+- Diffrence between the yera to date cars sold & pervious year cars cars sold 
+- Year over year grouth in cars sold  
+- Month to date cars sold
+### Created visualzations
+- Area chat for Year to date sales weekly trends 
+- Donut chart for Year to date sales by body style 
+- Pic chart for Year to date sales by colour 
+- Tree map for Total cars sold by Dealer region
+- Table for Company wise sales Trend 
+- Table for Total sold cars details
 
  
 ## Dashboard Preview
@@ -57,9 +57,9 @@ The goal of this project is to analyze cars sales performance from 2022 to 20233
 - Dashboard Interaction Video   :[click to view](https://github.com/balagavamsikrishna18/CAR-SALES-REPORT/blob/main/CAR%20SALES%20REPORT%20REC.mp4)
 
 ## Project Insights
--**year to date cars sales** Weekly Trends are high between 36th with 14.9M low in 53 week With 1.1M
--**year to date cars sales** By Body styel Hardtop,Hatchack,Passenger,sedan,Suv All of these Suv and Hatchback are Contributes More with 26%, 22% 
--**year to date cars sales** By Colours Red,Black,Pale white all of these Pale White and Black Contributes More with 125.24M,124.25M 
+- **year to date cars sales** Weekly Trends are high between 36th with 14.9M low in 53 week With 1.1M
+- **year to date cars sales** By Body styel Hardtop,Hatchack,Passenger,sedan,Suv All of these Suv and Hatchback are Contributes More with 26%, 22% 
+- **year to date cars sales** By Colours Red,Black,Pale white all of these Pale White and Black Contributes More with 125.24M,124.25M 
 
 
 
