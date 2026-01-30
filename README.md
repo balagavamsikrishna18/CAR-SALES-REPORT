@@ -67,7 +67,7 @@ The goal of this project is to analyze cars sales performance from 2022 to 2023 
 - **KPIs Summary:**
 - **371.19M** Total sales
 - **28k** Avarage Sales
-- **13.3**  Cars Sales 
+- **13.3K**  Cars Sales 
    
 ## Final Conclusion
  Cars sales data from 2022–2023 shows consistent performance across The Transmission  **Auto** and **Manual** &
