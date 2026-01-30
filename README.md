@@ -5,7 +5,6 @@ The goal of this project is to analyze cars sales performance from 2022 to 20233
 ## Dataset Used
 - **Cars sales dataset (2022-2023): **[cick to view](https://github.com/balagavamsikrishna18/CAR-SALES-REPORT/blob/main/Car%20Sales.xlsx)
 ## Questions (KPIs Covered)
-## Sales overview 
 -Year to date toatal sales 
 -Difference between the year to date sales and perevious year to date sales 
 -Year to year grouth in total sales 
