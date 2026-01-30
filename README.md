@@ -1,7 +1,7 @@
 # CAR-SALES-REPORT
 
 ## Objective
-The goal of this project is to analyze cars sales performance from 2022 to 20233 using an interactive Power BI dashboard. The dashboard helps business stakeholders understand revenue trends, regional contribution, engine-size distribution, and color-based preferences. These insights support strategic decision‑making and help forecast sales growth.
+The goal of this project is to analyze cars sales performance from 2022 to 2023 using an interactive Power BI dashboard. The dashboard helps business stakeholders understand revenue trends, regional contribution, engine-size distribution, and color-based preferences. These insights support strategic decision‑making and help forecast sales growth.
 ## Dataset Used
 - Cars sales dataset (2022-2023):  [cick to view](https://github.com/balagavamsikrishna18/CAR-SALES-REPORT/blob/main/Car%20Sales.xlsx)
 
@@ -65,9 +65,9 @@ The goal of this project is to analyze cars sales performance from 2022 to 20233
 -  The Transmission--the both **Auto** and **Manual** are equally sold
 -  Engin types the both **DoubleA Overahand**  & **Camshaft  Overahand**
 - **KPIs Summary:**
-     -**371.19M** Total sales
-     -**28k** Avarage Sales
-     -**13.3**  Cars Sales 
+     **371.19M** Total sales
+     **28k** Avarage Sales
+     **13.3**  Cars Sales 
    
 ## Final Conclusion
  Cars sales data from 2022–2023 shows consistent performance across The Transmission  **Auto** and **Manual** &
