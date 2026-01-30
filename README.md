@@ -66,9 +66,9 @@ The goal of this project is to analyze cars sales performance from 2022 to 20233
 -  Engin types the both **DoubleA Overahand**  & **Camshaft  Overahand**
   
     **KPIs Summary:**
-     --**371.19M**--Total sales
-     --**28k**-- Avarage Sales
-     --**13.3**-- Cars Sales 
+     --**371.19M** Total sales
+     --**28k** Avarage Sales
+     --**13.3**  Cars Sales 
    
 ## Final Conclusion
  Cars sales data from 2022–2023 shows consistent performance across The Transmission  **Auto** and **Manual** &
