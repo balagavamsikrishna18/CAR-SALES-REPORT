@@ -58,12 +58,15 @@ The goal of this project is to analyze cars sales performance from 2022 to 20233
 
 ## Project Insights
 - **year to date cars sales** Weekly Trends are high between **36th** with **14.9M** low in **53** week With **1.1M**
-- **year to date cars sales** By Body styel Hardtop,Hatchack,Passenger,sedan,Suv All of these Suv and Hatchback are Contributes More with **26%**, **22%** 
+- **year to date cars sales** By Body styel Hardtop,Hatchack,Passenger,sedan,Suv All of these Suv and Hatchback are Contributes More with **26%** & **22%** 
 - **year to date cars sales** By Colours Red,Black,Pale white all of these **Pale White** and **Black** Contributes More with **125.24M**,**124.25M**
 - **year to date cars sales** By dealer Regions over all the  Regions. **Austin** & **Jenesvi** sold well with **4135** & **3812**
-- **year to date cars sales** By all companys the **Chevrolet** Company Cars most Sold  **1043** 
+- **year to date cars sales** By all companys the **Chevrolet** Company Cars most Sold  **1043**
+-  The Transmission--the both **Auto** and **Manual** are equally sold
+-  Engin types the both **DoubleA Overahand**  & **Camshaft  Overahand**
+    - 
 ## Final Conclusion
-
+- 
 
 
 
