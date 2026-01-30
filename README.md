@@ -5,18 +5,18 @@ The goal of this project is to analyze cars sales performance from 2022 to 20233
 ## Dataset Used
 - **Cars sales dataset (2022-2023): **[cick to view](https://github.com/balagavamsikrishna18/CAR-SALES-REPORT/blob/main/Car%20Sales.xlsx)
 ## Questions (KPIs Covered)
-### Sales overview 
+## Sales overview 
 -Year to date toatal sales 
 -Difference between the year to date sales and perevious year to date sales 
 -Year to year grouth in total sales 
 -Month to date total sales 
 
-### Avarage price Analysis 
+## Avarage price Analysis 
 -Year to average price 
 -Difference between avarage price & perevious year avarage price 
 -Year over year grouth in average price 
 -Month to date avarage price 
-### Car sold metrics 
+## Car sold metrics 
 -Year to date cars sold 
 -Diffrence between the yera to date cars sold & pervious year cars cars sold 
 -Year over year grouth in cars sold  
@@ -32,7 +32,7 @@ The goal of this project is to analyze cars sales performance from 2022 to 20233
 ## Process
 - Cleaned and validated the dataset for missing values and incorrect formatting.
 - Extracted key date components: **Year, Month, Quarter, Week Name**.
-###Created DAX measures for KPIs:
+##Created DAX measures for KPIs:
 -Year to date toatal sales 
 -Difference between the year to date sales and perevious year to date sales 
 -Year to year grouth in total sales 
