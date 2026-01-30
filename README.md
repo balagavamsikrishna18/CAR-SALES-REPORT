@@ -8,14 +8,11 @@ The goal of this project is to analyze cars sales performance from 2022 to 20233
 -Year to date toatal sales 
 -Difference between the year to date sales and perevious year to date sales 
 -Year to year grouth in total sales 
--Month to date total sales 
-
-## Avarage price Analysis 
+-Month to date total sales  
 -Year to average price 
 -Difference between avarage price & perevious year avarage price 
 -Year over year grouth in average price 
 -Month to date avarage price 
-## Car sold metrics 
 -Year to date cars sold 
 -Diffrence between the yera to date cars sold & pervious year cars cars sold 
 -Year over year grouth in cars sold  
