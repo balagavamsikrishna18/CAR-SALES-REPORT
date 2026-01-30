@@ -3,7 +3,7 @@
 ## Objective
 The goal of this project is to analyze cars sales performance from 2022 to 20233 using an interactive Power BI dashboard. The dashboard helps business stakeholders understand revenue trends, regional contribution, engine-size distribution, and color-based preferences. These insights support strategic decision‑making and help forecast sales growth.
 ## Dataset Used
-- **Cars sales dataset (2022-2023): ** [cick to view](https://github.com/balagavamsikrishna18/CAR-SALES-REPORT/blob/main/Car%20Sales.xlsx)
+- Cars sales dataset (2022-2023):  [cick to view](https://github.com/balagavamsikrishna18/CAR-SALES-REPORT/blob/main/Car%20Sales.xlsx)
 
 ## Questions (KPIs Covered)
 - What is the  Year to date toatal sales 
