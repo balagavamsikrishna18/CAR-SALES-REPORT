@@ -48,7 +48,7 @@ The goal of this project is to analyze cars sales performance from 2022 to 2023 
 - Pic chart for Year to date sales by colour 
 - Tree map for Total cars sold by Dealer region
 - Table for Company wise sales Trend 
-- Table for Total sold cars details
+- Table for Total sold cars details 
 
  
 ## Dashboard Preview
